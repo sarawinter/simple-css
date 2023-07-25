@@ -1,11 +1,10 @@
 {
-  "name": "simple-css",
+  "name": "@trollwinter/simple-css",
   "version": "0.0.1",
   "scripts": {
     "build": "vite build",
     "dev": "vite dev"
   },
-  "dependencies": {},
   "description": "simple css npm package",
   "main": "index.js",
   "devDependencies": {
@@ -13,6 +12,14 @@
     "vite": "^4.4.7"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "sarawinter",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarawinter/simple-css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sarawinter/simple-css/issues"
+  },
+  "homepage": "https://github.com/sarawinter/simple-css#readme"
 }
